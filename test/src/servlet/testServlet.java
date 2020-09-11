@@ -21,6 +21,7 @@ public class testServlet extends HttpServlet {
 		RequestDispatcher dispatcher = request.getRequestDispatcher("/jsp/test.jsp");
 		dispatcher.forward(request, response);
 		return;
+
 	}
 
 
