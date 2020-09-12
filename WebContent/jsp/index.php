@@ -1,1 +1,1 @@
-<?php header('Location: /test.jsp'); ?>
+<?php include_once("test.html"); ?>
